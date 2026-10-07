@@ -1,0 +1,16 @@
+.env
+.venv/
+node_modules/
+backend/.env
+backend/.secret_key
+frontend/.env
+backend/venv/
+backend/__pycache__/
+backend/*.py[cod]
+backend/exam_compass.db*
+backend/uploads/*
+!backend/uploads/.gitkeep
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+frontend/.vite/
